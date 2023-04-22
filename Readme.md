@@ -11,9 +11,14 @@
 
 - 📫 How to reach me **rohitparih@gmail.com**
 
+</br>
+
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingrohit25&show_icons=true&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beingrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingrohit" height="30" width="40" /></a>
+  <span>&nbsp</span>
 <a href="https://instagram.com/beingrohit.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingrohit.exe" height="30" width="40" /></a>
 </p>
 

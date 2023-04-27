@@ -13,14 +13,18 @@
 
 </br>
 
-![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=beingrohit25&count_private=true&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit25&hide_progress=false&layout=compact)](https://github.com/beingrohit25/github-readme-stats)
+<a href="https://github.com/beingrohit25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beingrohit25&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/beingrohit25">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit25&hide_progress=false&layout=compact" />
+</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beingrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingrohit" height="30" width="40" /></a>
-  <span>&nbsp</span>
+   <span>&nbsp</span>
+   <span>&nbsp</span>
 <a href="https://instagram.com/beingrohit.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingrohit.exe" height="30" width="40" /></a>
 </p>
 

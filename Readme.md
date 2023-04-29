@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Parihar</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 
-- 🔭 I’m currently working on **InfoRing - Fullstack**
+- 🔭 I’m currently working on **InfoRing - Fullstack** and **Bloggios-Learn**
 
 - 🌱 I’m currently learning **Flutter, Spring Boot Advanced**
 

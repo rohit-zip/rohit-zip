@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingrohit25](https://github.com/beingrohit25)
 
-- 💬 Ask me about **Spring Boot, React Js, React Native, Flutter, Java Core, Flutter, Microservices, Docker**
+- 💬 Ask me about **Spring Boot, React Js, React Native, Flutter, Java Core, Microservices, Docker, Kafka, Spring Security, RESTful Services**
 
 - 📫 How to reach me **rohitparih@gmail.com**
 

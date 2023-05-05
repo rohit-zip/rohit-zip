@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Parihar</h1>
-<div align="cneter">
+<div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Passionate+Full+Stack+Web+and+App+Developer)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&vCenter=true&width=677&lines=A+Passionate+Full+Stack+Web+and+App+Developer)](https://git.io/typing-svg)
 </div>
+
+
 - 🔭 I’m currently working on **InfoRing - Fullstack** and **Bloggios-Learn**
 
 - 🌱 I’m currently learning **Flutter, Spring Boot Advanced**

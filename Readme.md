@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beingrohit25&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/beingrohit25">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit25&hide_progress=false&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit25&hide_progress=false&layout=compact&count_private=true" />
 </a>
 
 <h3 align="left">Connect with me:</h3>

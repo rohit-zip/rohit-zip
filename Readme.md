@@ -35,3 +35,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit-exe&hide_progress=false&layout=compact&count_private=true" />
 </div>
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=beingrohit-exe&theme=algolia&no-frame=false&row=1" />
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+

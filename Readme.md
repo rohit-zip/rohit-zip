@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **InfoRing - Fullstack** and **Bloggios-Learn**
+- 🔭 I’m currently working on **Bloggios Learn Fullstack Application**
 
 - 🌱 I’m currently learning **Flutter, Spring Boot Advanced**
 

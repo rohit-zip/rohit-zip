@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Bloggios Learn Fullstack Application**
 
-- 🌱 I’m currently learning **Flutter, Spring Boot Advanced**
+- 🌱 I’m currently learning **Spring Boot Advanced with Microservices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/beingrohit-exe](https://github.com/beingrohit-exe)
 

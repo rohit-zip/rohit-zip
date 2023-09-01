@@ -5,7 +5,7 @@
 </div>
 
 
-- 🔭 I’m currently working on **Bloggios Learn Fullstack Application**
+- 🔭 I’m currently working on **Bloggios Consultancy Application**
 
 - 🌱 I’m currently learning **Spring Boot Advanced with Microservices**
 

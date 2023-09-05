@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Spring Boot, React Js, React Native, Flutter, Java Core, Microservices, Docker, Kafka, Spring Security, RESTful Services**
 
-- 📫 How to reach me **rohitparih@gmail.com**
+- 📫 Reach me at **rohitparih@gmail.com**
 
 </br>
 

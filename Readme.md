@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot Advanced with Microservices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/beingrohit-exe](https://github.com/beingrohit-exe)
+- 👨‍💻 All of my projects are available at [https://github.com/rohit-zip](https://github.com/rohit-zip)
 
 - 💬 Ask me about **Spring Boot, React Js, React Native, Flutter, Java Core, Microservices, Docker, Kafka, Spring Security, RESTful Services**
 
@@ -18,15 +18,15 @@
 </br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beingrohit-exe" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=beingrohit-exe&count_private=true&show_icons=true&theme=radical" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-zip" height="160"/> &nbsp; <img src="https://github-readme-stats.vercel.app/api?username=rohit-zip&count_private=true&show_icons=true&theme=radical" height="160"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/beingrohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beingrohit-exe" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rohit-zip" target="blank"><img align="center" src="https://linkedin.com/in/rohit-zip" alt="rohit-zip" height="30" width="40" /></a>
    <span>&nbsp</span>
    <span>&nbsp</span>
-<a href="https://instagram.com/beingrohit.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beingrohit.exe" height="30" width="40" /></a>
+<a href="https://instagram.com/rohit.zip" target="blank"><img align="center" src="https://linkedin.com/in/rohit-zip" alt="rohit-zip" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
@@ -54,10 +54,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p> &nbsp;
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beingrohit-exe&hide_progress=false&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-zip&hide_progress=false&layout=compact&count_private=true" />
 </div>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=beingrohit-exe&theme=algolia&no-frame=false&row=1" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=rohit-zip&theme=algolia&no-frame=false&row=1" />
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 

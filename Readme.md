@@ -7,7 +7,7 @@ Hi 👋, I'm Rohit Parihar<br>A passionate Java Full Stack Developer<br>I am cur
 
 ## 🧑‍💻 Profile Views
 <div align="center">
-  ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=rohit-zip)
+  <img src="https://komarev.com/ghpvc/?username=rohit-zip" />
 </div>
 
 
